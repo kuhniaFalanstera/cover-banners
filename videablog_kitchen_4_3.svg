@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="videablog_kitchen_4_3.svg"
+   inkscape:export-filename="/home/rizoma/Dropbox/falanster/videoblog/videablog_kitchen_6_1.png"
+   inkscape:export-xdpi="136.81146"
+   inkscape:export-ydpi="136.81146">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3020">
+      <rect
+         style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3022"
+         width="560"
+         height="128.57143"
+         x="-985.71429"
+         y="26.647898"
+         ry="11.428571" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3020-5">
+      <rect
+         style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3022-9"
+         width="560"
+         height="128.57143"
+         x="-985.71429"
+         y="26.647898"
+         ry="11.428571" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3020-5-8">
+      <rect
+         style="opacity:0.5;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3022-9-0"
+         width="560"
+         height="128.57143"
+         x="-985.71429"
+         y="26.647898"
+         ry="11.428571" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3028">
+      <rect
+         style="fill:#00ff00"
+         id="rect3030"
+         width="278"
+         height="278"
+         x="523.77606"
+         y="276.73358" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3032">
+      <rect
+         style="fill:#00ff00"
+         id="rect3034"
+         width="68.101189"
+         height="68.101189"
+         x="-62.908512"
+         y="-29.280237"
+         transform="matrix(0.5941434,-0.80435913,-0.80435913,-0.5941434,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3036">
+      <rect
+         style="fill:#00ff00"
+         id="rect3038"
+         width="55.412369"
+         height="55.412369"
+         x="-31.788492"
+         y="-45.620049"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3040">
+      <rect
+         style="fill:#00ff00"
+         id="rect3042"
+         width="278"
+         height="278"
+         x="523.77606"
+         y="276.73358" />
+    </clipPath>
+    <filter
+       id="filter3069"
+       y="-0.2"
+       width="1.2"
+       height="1.4"
+       x="-0.1"
+       inkscape:label="Fire"
+       inkscape:menu="Protrusions"
+       inkscape:menu-tooltip="Edges of object are on fire"
+       color-interpolation-filters="sRGB">
+      <feMorphology
+         id="feMorphology3071"
+         result="result1"
+         radius="2.4"
+         operator="dilate" />
+      <feTurbulence
+         id="feTurbulence3073"
+         baseFrequency="0.09 0.028"
+         numOctaves="1" />
+      <feColorMatrix
+         id="feColorMatrix3075"
+         result="result2"
+         values="2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+      <feDisplacementMap
+         id="feDisplacementMap3077"
+         in2="result2"
+         result="result4"
+         scale="10.319410319410318"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feFlood
+         id="feFlood3079"
+         result="result3"
+         flood-opacity="1"
+         flood-color="rgb(255,159,54)" />
+      <feMorphology
+         id="feMorphology3081"
+         radius="3.8"
+         result="result7"
+         in="result4" />
+      <feGaussianBlur
+         id="feGaussianBlur3083"
+         result="result7"
+         in="result7"
+         stdDeviation="2.4" />
+      <feComposite
+         id="feComposite3085"
+         in2="result4"
+         result="result5"
+         in="result3"
+         operator="in" />
+      <feComposite
+         id="feComposite3087"
+         in2="result7"
+         operator="out" />
+      <feOffset
+         id="feOffset3089"
+         result="result6"
+         dy="-7"
+         dx="-4.5" />
+      <feGaussianBlur
+         id="feGaussianBlur3091"
+         result="result7"
+         stdDeviation="4.8" />
+      <feComposite
+         id="feComposite3093"
+         in2="result6"
+         in="SourceGraphic"
+         result="result8" />
+      <feComposite
+         id="feComposite3095"
+         in2="result7" />
+    </filter>
+    <filter
+       id="filter3101"
+       y="-0.43000000000000022"
+       width="1.6599999999999997"
+       height="2"
+       x="-0.070000000000000034"
+       inkscape:label="Fire"
+       inkscape:menu="Protrusions"
+       inkscape:menu-tooltip="Edges of object are on fire"
+       color-interpolation-filters="sRGB">
+      <feMorphology
+         id="feMorphology3103"
+         result="result1"
+         radius="10.326086956521738"
+         operator="dilate" />
+      <feTurbulence
+         id="feTurbulence3105"
+         baseFrequency="0.09 0.028"
+         numOctaves="1" />
+      <feColorMatrix
+         id="feColorMatrix3107"
+         result="result2"
+         values="2 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+      <feDisplacementMap
+         id="feDisplacementMap3109"
+         in2="result2"
+         result="result4"
+         scale="10.319410319410318"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feFlood
+         id="feFlood3111"
+         result="result3"
+         flood-opacity="1"
+         flood-color="rgb(255,159,54)" />
+      <feMorphology
+         id="feMorphology3113"
+         radius="3.8"
+         result="result7"
+         in="result4" />
+      <feGaussianBlur
+         id="feGaussianBlur3115"
+         result="result7"
+         in="result7"
+         stdDeviation="2.4" />
+      <feComposite
+         id="feComposite3117"
+         in2="result4"
+         result="result5"
+         in="result3"
+         operator="in" />
+      <feComposite
+         id="feComposite3119"
+         in2="result7"
+         operator="out" />
+      <feOffset
+         id="feOffset3121"
+         result="result6"
+         dy="-7"
+         dx="-4.5" />
+      <feGaussianBlur
+         id="feGaussianBlur3123"
+         result="result7"
+         stdDeviation="4.8" />
+      <feComposite
+         id="feComposite3125"
+         in2="result6"
+         in="SourceGraphic"
+         result="result8" />
+      <feComposite
+         id="feComposite3127"
+         in2="result7" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3131">
+      <rect
+         style="fill:#ff7f2a;stroke:none"
+         id="rect3133"
+         width="595.98999"
+         height="195.96959"
+         x="-1519.2694"
+         y="363.43814" />
+    </clipPath>
+    <filter
+       id="filter3164"
+       inkscape:label="Clouds"
+       x="-0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Airy, fluffy, sparse white clouds"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3166"
+         numOctaves="6"
+         baseFrequency="0.016202531645569621 0.020253164556962026"
+         type="fractalNoise"
+         seed="602" />
+      <feColorMatrix
+         id="feColorMatrix3168"
+         result="result0"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -2.7" />
+      <feFlood
+         id="feFlood3170"
+         flood-opacity="1"
+         flood-color="rgb(255,255,255)"
+         result="result1" />
+      <feComposite
+         id="feComposite3172"
+         in2="result0"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite3174"
+         in2="SourceGraphic"
+         operator="atop" />
+    </filter>
+    <filter
+       id="filter3198"
+       inkscape:menu="Textures"
+       inkscape:label="Watercolor"
+       inkscape:menu-tooltip="Cloudy watercolor effect"
+       height="1.0600000000000001"
+       y="-0"
+       width="1.0399999999999996"
+       x="0"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3200"
+         stdDeviation="15"
+         result="result8" />
+      <feTurbulence
+         id="feTurbulence3202"
+         seed="27"
+         result="result7"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.025" />
+      <feComposite
+         id="feComposite3204"
+         in2="result8"
+         result="result6"
+         operator="over"
+         in="result7" />
+      <feColorMatrix
+         id="feColorMatrix3206"
+         result="result9"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -4 " />
+      <feDisplacementMap
+         id="feDisplacementMap3208"
+         in2="result9"
+         in="result7"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="50"
+         result="result4" />
+      <feComposite
+         id="feComposite3210"
+         in2="result4"
+         result="result2"
+         operator="in"
+         in="result8" />
+      <feComposite
+         id="feComposite3212"
+         in2="result9"
+         result="fbSourceGraphic"
+         in="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite3214"
+         in2="fbSourceGraphic"
+         operator="arithmetic"
+         k2="1"
+         k1="0.5"
+         in="fbSourceGraphic"
+         result="result91" />
+      <feBlend
+         id="feBlend3216"
+         in2="result91"
+         in="fbSourceGraphic"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter3220"
+       inkscape:menu="Textures"
+       inkscape:label="Watercolor"
+       inkscape:menu-tooltip="Cloudy watercolor effect"
+       height="2"
+       y="-0.5"
+       width="1.6"
+       x="-0.3"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3222"
+         stdDeviation="15"
+         result="result8" />
+      <feTurbulence
+         id="feTurbulence3224"
+         seed="27"
+         result="result7"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.025" />
+      <feComposite
+         id="feComposite3226"
+         in2="result8"
+         result="result6"
+         operator="over"
+         in="result7" />
+      <feColorMatrix
+         id="feColorMatrix3228"
+         result="result9"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 6 -4 " />
+      <feDisplacementMap
+         id="feDisplacementMap3230"
+         in2="result9"
+         in="result7"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="50"
+         result="result4" />
+      <feComposite
+         id="feComposite3232"
+         in2="result4"
+         result="result2"
+         operator="in"
+         in="result8" />
+      <feComposite
+         id="feComposite3234"
+         in2="result9"
+         result="fbSourceGraphic"
+         in="result2"
+         operator="in" />
+      <feComposite
+         id="feComposite3236"
+         in2="fbSourceGraphic"
+         operator="arithmetic"
+         k2="1"
+         k1="0.5"
+         in="fbSourceGraphic"
+         result="result91" />
+      <feBlend
+         id="feBlend3238"
+         in2="result91"
+         in="fbSourceGraphic"
+         mode="multiply" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-547.44573"
+     inkscape:cy="475.26484"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2996"
+       width="986.7594"
+       height="819.19586"
+       x="-1076.1675"
+       y="284.7384" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3014"
+       width="755.18719"
+       height="512.95728"
+       x="-961.91748"
+       y="553.11914"
+       ry="60.175617" />
+    <text
+       xml:space="preserve"
+       style="font-size:160.80950928px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-930.88458"
+       y="791.16766"
+       id="text2998"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3000"
+         x="-930.88458"
+         y="791.16766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas">Кухня</tspan></text>
+    <g
+       id="g3082"
+       transform="matrix(2.0381724,0,0,1.9751504,499.12371,88.68185)">
+      <rect
+         transform="matrix(1,0,0,-1,185.71426,390.43865)"
+         clip-path="url(#clipPath3020-5)"
+         ry="11.428571"
+         y="115.21932"
+         x="-902.85712"
+         height="80"
+         width="371.42856"
+         id="rect3016-4"
+         style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3048"
+         d="m -704.85714,275.21932 36.42857,-40.04332 45,0.0433 -36.4719,40.08665 z"
+         style="fill:#808080;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3048-0"
+         d="m -616.31849,275.5624 36.42857,-40.04332 45,0.0433 -36.4719,40.08665 z"
+         style="fill:#808080;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3048-5"
+         d="m -522.55638,275.08698 36.42857,-40.04332 45,0.0433 -36.4719,40.08665 z"
+         style="fill:#808080;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3048-8"
+         d="m -431.37936,275.07763 36.42857,-40.04332 45,0.0433 -36.4719,40.08665 z"
+         style="fill:#808080;stroke:none" />
+    </g>
+    <path
+       style="fill:#666666;stroke:none"
+       d="m -968.48145,487.90034 c 77.08323,-68.52581 258.33644,-104.97707 345.0727,-115.98482 86.73627,-11.00774 280.5688,-20.92968 395.21232,28.67515 z"
+       id="path3057"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcc" />
+    <g
+       transform="matrix(2.0243398,-0.22972461,-0.23705453,-1.9617455,545.0998,849.67418)"
+       id="g3082-1"
+       inkscape:transform-center-x="-168.82592"
+       inkscape:transform-center-y="-32.670608">
+      <rect
+         transform="matrix(1,0,0,-1,185.71426,390.43865)"
+         clip-path="url(#clipPath3020-5-8)"
+         ry="11.428571"
+         y="115.21932"
+         x="-902.85712"
+         height="80"
+         width="371.42856"
+         id="rect3016-4-3"
+         style="fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3048-2"
+         d="m -704.85714,275.21932 36.42857,-40.04332 45,0.0433 -36.4719,40.08665 z"
+         style="fill:#808080;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3048-0-2"
+         d="m -616.31849,275.5624 36.42857,-40.04332 45,0.0433 -36.4719,40.08665 z"
+         style="fill:#808080;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3048-5-2"
+         d="m -522.55638,275.08698 36.42857,-40.04332 45,0.0433 -36.4719,40.08665 z"
+         style="fill:#808080;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3048-8-7"
+         d="m -431.37936,275.07763 36.42857,-40.04332 45,0.0433 -36.4719,40.08665 z"
+         style="fill:#808080;stroke:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48.67946624999999727px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-737.90247"
+       y="839.91602"
+       id="text3002"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3004"
+         x="-737.90247"
+         y="839.91602"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff7f2a;font-family:Consolas;-inkscape-font-specification:Consolas">Фаланстэра</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:71.78904724px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-913.2959"
+       y="960.31097"
+       id="text3006"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3008"
+         x="-913.2959"
+         y="960.31097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas">Выпуск 6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:43.52793121px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-911.2431"
+       y="1015.1943"
+       id="text3010"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3012"
+         x="-911.2431"
+         y="1015.1943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Consolas;-inkscape-font-specification:Consolas">сакавік 2016</tspan></text>
+    <path
+       id="path1946"
+       style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 773.0718,488.38508 -81.49502,-33.14184 c 14.9354,-3.97341 25.95258,-17.53919 25.95258,-33.72381 0,-19.29511 -15.63777,-34.93289 -34.9379,-34.93289 -19.28007,0 -34.91282,15.63778 -34.91282,34.93289 0,16.36523 11.25799,30.05643 26.42919,33.84923 l -12.82328,5.21761 c -0.30101,0.12542 -0.61206,0.24081 -0.90806,0.36623 l -67.44761,27.43258 c -5.86981,2.39308 -8.68933,9.09569 -6.30629,14.95045 2.38806,5.87985 9.09068,8.69434 14.95046,6.30127 l 41.36459,-16.81174 0,83.54695 4.73097,0 0,77.88784 c 0,6.33137 5.14235,11.47372 11.47372,11.47372 6.3414,0 11.47873,-5.14235 11.47873,-11.47372 l 0,-77.88784 23.96086,0 0,77.88784 c 0,6.33137 5.13734,11.47372 11.47372,11.47372 6.33639,0 11.47874,-5.14235 11.47874,-11.47372 l 0,-77.88784 4.72595,0 0,-83.87806 42.1673,17.14285 c 5.85977,2.39307 12.56239,-0.42142 14.95045,-6.30127 2.38304,-5.85476 -0.44149,-12.55737 -6.30628,-14.95045"
+       inkscape:connector-curvature="0"
+       clip-path="url(#clipPath3040)"
+       transform="matrix(1.1915383,0,0,1.1915383,-1178.619,405.19123)" />
+    <g
+       id="g1948"
+       transform="matrix(6.2082991,0,0,-6.2082991,-365.37108,1020.6782)"
+       clip-path="url(#clipPath3036)"
+       style="fill:#ff7f2a">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,0 c 0.416,0.81 0.811,1.226 1.619,1.226 0.897,0 1.619,-0.723 1.619,-1.62 0,-1.619 -1.619,-3.259 -3.238,-4.878 -1.619,1.619 -3.238,3.259 -3.238,4.878 0,0.897 0.721,1.62 1.619,1.62 C -0.811,1.226 -0.393,0.81 0,0"
+         style="fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path1950" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24.0581646px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-404.12357"
+       y="984.88257"
+       id="text3244"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3246"
+         x="-404.12357"
+         y="984.88257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas">вялікі</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.80974197px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-387.88528"
+       y="1007.9424"
+       id="text3248"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3250"
+         x="-387.88528"
+         y="1007.9424"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas">біт</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-753.46381"
+       y="339.38617"
+       id="text3252"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99273247,-0.12034216,0.12034216,0.99273247,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3254"
+         x="-753.46381"
+         y="339.38617">falanster.by</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#666666;stroke:none"
+       id="path3063"
+       sodipodi:cx="-1244.5079"
+       sodipodi:cy="339.19449"
+       sodipodi:rx="52.527931"
+       sodipodi:ry="52.527931"
+       d="m -1191.98,339.19449 a 52.527931,52.527931 0 1 1 -105.0559,0 52.527931,52.527931 0 1 1 105.0559,0 z"
+       transform="matrix(0.76923076,0,0,0.76923076,355.26288,86.356873)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff7f2a;stroke:none;filter:url(#filter3101)"
+       id="path3099"
+       sodipodi:cx="-1291.9851"
+       sodipodi:cy="557.38745"
+       sodipodi:rx="144.45181"
+       sodipodi:ry="22.223356"
+       d="m -1147.5333,557.38745 a 144.45181,22.223356 0 1 1 -288.9036,0 144.45181,22.223356 0 1 1 288.9036,0 z"
+       transform="translate(709.1677,543.42145)"
+       clip-path="url(#clipPath3131)" />
+    <text
+       xml:space="preserve"
+       style="font-size:54.83184432999999558px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-400.1167"
+       y="731.91656"
+       id="text3135"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3137"
+         x="-400.1167"
+         y="731.91656"
+         style="text-align:start;line-height:110.00000238000001218%;text-anchor:start;fill:#00ffff">відэа</tspan><tspan
+         sodipodi:role="line"
+         x="-400.1167"
+         y="792.23163"
+         id="tspan3139"
+         style="text-align:start;line-height:110.00000238000001218%;text-anchor:start;fill:#00ffff">блог</tspan></text>
+    <path
+       style="fill:#ffff00;stroke:none;filter:url(#filter3198)"
+       d="m -607.42857,564.07647 c 0,0 205.71428,-48.57143 211.42857,-48.57143 5.71428,0 45.71428,-51.42857 14.28571,-65.71428 -31.42857,-14.28572 -69.33629,-37.82189 -71.42857,-71.42858 -1.34948,-21.67566 80,-37.14285 40,-51.42857 -40,-14.28571 -54.28571,-25.71428 -54.28571,-25.71428 l 308.57143,8.57143 c 0,0 68.57143,28.57142 2.85714,117.14285 -65.71429,88.57143 -134.28572,37.14286 -134.28572,80 0,42.85715 74.28572,62.85715 74.28572,62.85715 z"
+       id="path3218"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssasccsscc" />
+  </g>
+</svg>
